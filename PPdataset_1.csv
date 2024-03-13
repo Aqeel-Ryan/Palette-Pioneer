@@ -1,0 +1,389 @@
+Age,Gender,Occupation,Monthly Income,low-carb,low-fat,high-protein,non-veg,veg,vegan,gluten-free,Lactose Intolerance,soy-allergy,wheat-allergy,fish-allergy,meal-preff,cuisine-preff
+20,Female,Student,0,1,1,0,0,0,1,0,0,0,0,1,Lunch,Indian
+24,Female,Student,<10000,1,1,1,0,1,0,0,0,1,0,0,Lunch,Indian
+22,Male,Student,<10000,0,0,0,0,0,1,0,1,0,0,0,Breakfast,Indian
+22,Female,Student,0,0,1,0,1,0,0,0,0,0,0,0,Dinner,Chinese
+22,Male,Student,<10000,1,0,1,0,0,0,1,1,0,0,1,Dinner,Chinese
+27,Female,Employee,>50000,0,0,1,0,1,0,0,0,0,0,0,Dinner,Indian
+22,Male,Student,0,1,1,0,0,1,0,0,0,0,1,0,Breakfast,Mediterranean
+24,Female,Student,0,1,0,1,0,1,0,0,0,0,0,1,Dinner,Chinese
+23,Female,Student,0,0,1,0,0,0,1,0,0,1,0,0,Dinner,Japanese
+23,Female,Student,0,0,1,0,0,0,1,0,0,1,0,1,Lunch,Mediterranean
+22,Female,Student,0,1,1,1,0,1,0,0,0,1,1,0,Dinner,Chinese
+23,Male,Student,<10000,0,1,0,0,1,0,0,0,0,0,0,Lunch,Mediterranean
+23,Male,Student,0,1,1,0,1,0,0,0,1,0,0,1,Dinner,Mexican
+21,Male,Student,0,0,0,0,0,1,0,0,1,1,0,0,Lunch,Mexican
+23,Female,Self Employeed,<25000,1,1,1,0,1,0,0,1,0,0,0,Breakfast,Japanese
+24,Female,Student,0,0,0,0,0,0,1,0,0,1,0,0,Lunch,Thai
+28,Female,Employee,<50000,0,0,1,0,0,1,0,0,0,0,0,Breakfast,Mediterranean
+23,Female,Student,0,0,1,0,0,1,0,0,0,0,0,0,Breakfast,Indian
+25,Male,Student,0,1,1,1,0,0,1,0,0,0,1,0,Lunch,Mexican
+21,Female,Student,<10000,1,0,1,0,0,0,1,0,0,0,0,Dinner,Italian
+24,Male,Student,0,1,0,0,1,0,0,0,0,0,0,0,Breakfast,Italian
+22,Male,Student,0,0,1,0,1,0,0,0,0,0,0,1,Lunch,Italian
+22,Female,Student,0,1,0,1,0,0,0,1,0,0,0,0,Lunch,Mediterranean
+23,Male,Student,0,1,1,1,0,0,0,1,0,1,1,0,Breakfast,Chinese
+21,Male,Student,<10000,0,1,1,0,0,0,1,0,0,0,1,Lunch,Japanese
+25,Male,Student,0,1,0,1,0,0,1,0,0,0,1,0,Breakfast,Mexican
+22,Female,Student,0,0,0,0,0,0,0,1,0,0,0,0,Dinner,Mexican
+22,Male,Student,0,1,0,0,0,1,0,0,0,0,0,1,Lunch,Mexican
+23,Female,Employee,<25000,0,1,1,0,0,1,0,0,1,0,0,Breakfast,Thai
+22,Male,Student,<10000,1,0,1,0,0,1,0,1,1,0,0,Lunch,Japanese
+22,Female,Employee,<25000,0,1,0,0,1,0,0,0,0,0,0,Lunch,Japanese
+22,Male,Student,0,0,1,0,1,0,0,0,0,1,0,0,Lunch,Italian
+25,Male,Employee,>50000,1,0,0,0,0,1,0,0,1,1,0,Dinner,Italian
+22,Female,Student,<25000,0,0,0,0,0,1,0,0,0,1,0,Dinner,Mexican
+22,Female,Student,0,0,1,0,0,0,0,1,0,0,0,1,Breakfast,Mediterranean
+25,Male,Student,<25000,1,1,0,1,0,0,0,0,1,0,1,Breakfast,Italian
+25,Male,Student,0,0,0,1,0,0,0,1,0,0,1,1,Breakfast,Thai
+32,Female,House wife,0,0,1,1,0,0,0,1,1,1,0,0,Dinner,Mediterranean
+23,Female,Student,0,1,0,0,0,0,0,1,0,1,1,0,Breakfast,Mediterranean
+23,Female,Student,0,1,0,1,0,0,1,0,0,0,1,1,Breakfast,Chinese
+30,Male,Self Employeed,>50000,0,1,0,0,1,0,0,0,0,0,0,Breakfast,Chinese
+23,Male,Student,0,0,1,0,0,0,1,0,0,0,1,1,Breakfast,Italian
+23,Male,Student,0,1,0,0,0,0,0,1,0,0,0,0,Dinner,Mexican
+22,Female,Student,0,0,1,1,1,0,0,0,0,0,1,0,Dinner,Italian
+22,Male,Student,0,0,1,1,0,0,1,0,1,1,0,0,Lunch,Mexican
+27,Female,Self Employeed,<25000,1,1,1,0,1,0,0,0,1,0,0,Lunch,Chinese
+24,Female,Student,0,0,0,1,0,1,0,0,0,1,1,0,Lunch,Mexican
+23,Male,Student,0,0,0,1,1,0,0,0,1,0,0,0,Dinner,Italian
+23,Female,Student,0,1,1,0,0,0,0,1,0,0,0,0,Breakfast,Chinese
+22,Female,Student,<25000,1,1,1,1,0,0,0,1,0,1,0,Lunch,Indian
+23,Female,Student,0,0,0,0,0,0,0,1,0,0,1,1,Lunch,Mediterranean
+23,Female,Student,0,0,0,1,0,1,0,0,0,1,0,0,Dinner,Italian
+24,Male,Student,0,1,0,1,1,0,0,0,0,0,0,0,Lunch,Italian
+25,Male,Student,0,0,0,1,1,0,0,0,0,1,1,0,Dinner,Indian
+22,Male,Student,0,0,1,1,0,0,0,1,1,0,0,0,Breakfast,Japanese
+28,Female,Student,0,0,0,0,0,1,0,0,0,0,0,0,Dinner,Thai
+22,Female,Student,0,0,1,1,0,0,1,0,0,1,0,1,Breakfast,Mediterranean
+24,Female,Student,0,1,0,0,0,0,1,0,0,0,0,0,Breakfast,Japanese
+31,Male,Employee,>50000,0,1,1,0,1,0,0,1,1,0,0,Breakfast,Indian
+25,Male,Student,0,0,0,1,0,0,0,1,0,1,0,1,Lunch,Mediterranean
+23,Male,Student,0,1,0,0,0,1,0,0,0,0,0,0,Lunch,Indian
+22,Male,Student,0,1,1,0,0,0,1,0,0,0,0,0,Breakfast,Indian
+23,Male,Student,<50000,0,1,0,1,0,0,0,1,0,0,0,Lunch,Chinese
+23,Male,Student,0,1,0,0,0,0,0,1,1,0,0,1,Breakfast,Japanese
+23,Female,Student,0,1,0,1,0,0,0,1,0,0,0,0,Breakfast,Mexican
+25,Male,Student,0,0,0,0,0,1,0,0,0,0,1,1,Lunch,Indian
+24,Male,Employee,<25000,1,1,0,0,1,0,0,0,0,0,0,Dinner,Italian
+23,Female,Student,0,1,0,0,0,0,0,1,0,1,1,0,Lunch,Thai
+23,Female,Student,0,0,1,0,0,1,0,0,0,0,1,0,Breakfast,Italian
+24,Female,Employee,>50000,1,0,0,0,0,0,1,0,0,0,0,Breakfast,Japanese
+22,Male,Student,0,1,1,0,0,0,1,0,0,0,0,0,Dinner,Mediterranean
+24,Female,Student,<25000,1,0,0,1,0,0,0,1,0,0,1,Dinner,Chinese
+25,Female,Student,0,1,1,0,0,0,1,0,0,0,0,1,Lunch,Japanese
+23,Male,Student,0,0,1,1,0,1,0,0,0,0,0,0,Breakfast,Mexican
+26,Male,Student,0,0,0,0,0,0,1,0,0,1,0,0,Breakfast,Italian
+24,Female,Student,<50000,1,1,1,0,0,0,1,0,0,1,1,Dinner,Mediterranean
+26,Male,Student,0,1,1,1,0,0,0,1,0,1,1,0,Lunch,Indian
+21,Male,Student,0,1,0,0,0,0,1,0,1,1,0,0,Breakfast,Italian
+22,Female,Student,0,0,0,0,0,0,1,0,0,0,1,1,Lunch,Mediterranean
+24,Male,Student,0,0,0,1,1,0,0,0,0,0,0,0,Breakfast,Mediterranean
+24,Male,Student,<25000,0,0,1,0,0,1,0,0,0,0,1,Dinner,Mediterranean
+23,Female,Student,0,0,0,0,0,1,0,0,0,0,0,0,Lunch,Japanese
+23,Male,Student,0,0,1,0,0,1,0,0,0,0,0,0,Lunch,Mexican
+22,Male,Student,0,1,1,1,0,0,1,0,1,0,1,0,Breakfast,Chinese
+23,Male,Student,0,0,1,1,1,0,0,0,0,0,0,0,Lunch,Chinese
+24,Female,Student,0,1,1,0,1,0,0,0,1,0,1,0,Breakfast,Japanese
+24,Male,Student,0,0,0,1,1,0,0,0,0,0,0,0,Dinner,Mexican
+25,Male,Student,0,0,0,1,0,0,1,0,1,1,0,0,Lunch,Indian
+25,Male,Student,0,1,0,0,0,1,0,0,0,0,1,0,Dinner,Thai
+28,Male,Self Employeed,<25000,1,0,0,0,0,0,1,1,0,0,1,Lunch,Chinese
+27,Female,Employee,<50000,1,0,1,0,0,1,0,1,0,0,0,Breakfast,Italian
+26,Male,Self Employeed,<25000,0,1,0,1,0,0,0,0,0,0,1,Dinner,Mexican
+22,Male,Student,0,1,0,0,0,1,0,0,0,0,0,0,Dinner,Chinese
+24,Female,Student,0,0,1,0,0,0,0,1,0,0,0,0,Lunch,Thai
+23,Male,Student,0,0,1,0,0,1,0,0,1,0,0,0,Dinner,Japanese
+25,Male,Student,0,0,1,1,0,1,0,0,0,0,0,0,Lunch,Chinese
+23,Female,Student,0,0,1,0,0,0,0,1,0,0,0,0,Lunch,Indian
+23,Female,Student,0,0,1,1,0,1,0,0,0,1,0,0,Breakfast,Thai
+26,Male,Employee,<50000,0,0,0,0,0,1,0,0,0,0,0,Breakfast,Japanese
+32,Female,House wife,0,0,1,1,0,0,0,1,0,0,0,1,Dinner,Japanese
+24,Female,Student,<25000,1,0,1,0,0,0,1,1,0,1,0,Dinner,Mediterranean
+23,Male,Student,0,0,1,0,0,0,1,0,0,0,0,1,Lunch,Mexican
+22,Female,Employee,<25000,0,0,0,1,0,0,0,0,0,0,0,Lunch,Italian
+24,Female,Student,0,1,0,1,0,0,0,1,0,0,0,1,Breakfast,Mediterranean
+26,Male,Employee,<50000,0,0,1,0,1,0,0,0,0,1,1,Dinner,Mexican
+28,Male,Employee,>50000,0,0,1,0,0,1,0,0,0,0,0,Lunch,Italian
+26,Male,Employee,>50000,1,0,1,0,1,0,0,0,0,0,0,Lunch,Mexican
+25,Male,Student,0,1,0,1,1,0,0,0,1,1,0,0,Dinner,Indian
+25,Male,Employee,<10000,0,0,0,0,0,0,1,0,0,1,1,Dinner,Italian
+18,Male,Student,0,0,1,1,0,0,0,1,0,0,0,0,Lunch,Chinese
+21,Male,Student,0,1,1,1,0,1,0,0,1,0,0,0,Lunch,Mediterranean
+25,Male,Student,0,1,0,0,0,1,0,0,0,0,1,0,Dinner,Indian
+25,Male,Student,<10000,0,1,1,1,0,0,0,0,0,1,0,Dinner,Mediterranean
+23,Female,Student,0,0,0,1,0,0,1,0,0,0,1,0,Breakfast,Mediterranean
+23,Male,Employee,<25000,0,0,1,0,0,0,1,1,0,0,0,Dinner,Mexican
+25,Female,Employee,<50000,1,1,1,0,1,0,0,0,1,1,0,Dinner,Indian
+31,Female,House wife,0,0,1,0,0,1,0,0,0,0,0,0,Lunch,Mexican
+24,Male,Self Employeed,>50000,0,0,0,0,0,1,0,0,1,0,0,Breakfast,Thai
+32,Female,Employee,<50000,0,0,1,0,0,0,1,1,0,0,0,Dinner,Indian
+25,Male,Employee,<50000,0,1,1,0,0,0,1,1,0,0,1,Breakfast,Indian
+27,Female,Self Employeed,>50000,0,0,1,0,0,0,1,0,0,1,0,Breakfast,Japanese
+26,Male,Self Employeed,<50000,1,1,1,0,0,1,0,0,0,0,0,Breakfast,Mediterranean
+26,Female,Self Employeed,<50000,1,0,0,1,0,0,0,0,0,0,0,Lunch,Indian
+32,Male,Employee,>50000,0,1,1,0,0,0,1,1,0,0,0,Lunch,Mexican
+24,Male,Self Employeed,>50000,0,1,1,1,0,0,0,0,0,1,0,Breakfast,Thai
+27,Female,Self Employeed,<50000,0,0,1,0,0,1,0,0,0,0,0,Breakfast,Mexican
+23,Male,Student,0,1,1,0,0,0,0,1,0,0,0,0,Breakfast,Indian
+25,Male,Student,0,1,0,0,0,0,0,1,0,1,0,0,Dinner,Mediterranean
+23,Male,Student,0,1,0,1,1,0,0,0,1,0,0,0,Lunch,Mexican
+23,Female,Student,0,0,1,0,1,0,0,0,1,0,0,1,Dinner,Italian
+28,Male,Employee,>50000,1,0,0,0,0,0,1,0,0,1,1,Lunch,Thai
+32,Female,Employee,>50000,0,1,1,0,1,0,0,1,0,0,1,Breakfast,Italian
+23,Male,Student,0,0,1,1,0,0,0,1,0,0,0,1,Dinner,Japanese
+19,Male,Student,0,1,0,0,0,0,1,0,0,0,0,0,Breakfast,Chinese
+19,Female,Student,0,0,0,1,0,1,0,0,0,0,0,0,Dinner,Chinese
+27,Female,Employee,<50000,1,1,0,1,0,0,0,0,1,0,0,Dinner,Thai
+25,Male,Self Employeed,<50000,1,1,1,0,0,0,1,0,0,1,0,Dinner,Indian
+33,Male,Employee,>50000,0,1,0,0,0,1,0,1,0,0,1,Breakfast,Thai
+26,Female,Employee,>50000,0,0,0,0,0,0,1,0,0,0,1,Breakfast,Indian
+22,Female,Student,<10000,0,0,0,1,0,0,0,0,1,0,0,Dinner,Chinese
+23,Male,Student,0,0,1,0,0,0,1,0,0,0,0,0,Lunch,Chinese
+22,Female,Student,0,1,0,0,0,0,0,1,0,0,0,0,Breakfast,Mexican
+25,Male,Employee,<50000,1,1,1,1,0,0,0,0,0,1,0,Lunch,Chinese
+30,Female,House wife,0,1,0,0,1,0,0,0,0,0,1,0,Breakfast,Indian
+24,Male,Student,0,1,1,1,0,0,0,1,0,0,0,0,Breakfast,Indian
+25,Male,Employee,<25000,0,0,0,1,0,0,0,0,0,0,0,Breakfast,Thai
+23,Male,Student,>50000,1,0,0,0,1,0,0,0,0,0,1,Breakfast,Japanese
+24,Female,Student,0,0,1,0,1,0,0,0,0,0,1,0,Lunch,Chinese
+32,Male,Employee,<25000,1,1,1,0,0,0,1,0,0,1,0,Lunch,Italian
+22,Male,Student,0,1,1,1,0,0,0,1,0,0,0,1,Lunch,Mediterranean
+23,Male,Student,>50000,1,1,0,0,1,0,0,0,0,1,1,Breakfast,Mediterranean
+23,Female,Student,0,0,0,0,1,0,0,0,0,0,0,1,Lunch,Thai
+20,Male,Student,0,0,0,0,0,0,0,1,1,0,0,0,Lunch,Chinese
+21,Male,Student,0,1,0,1,0,0,0,1,0,0,1,1,Dinner,Indian
+24,Female,Self Employeed,<25000,0,1,0,0,1,0,0,0,1,1,0,Lunch,Japanese
+23,Female,Student,0,0,1,1,0,0,1,0,0,0,0,0,Dinner,Mexican
+25,Male,Employee,<50000,1,1,0,0,0,1,0,0,0,0,0,Breakfast,Mexican
+32,Female,House wife,0,0,0,0,0,0,1,0,0,0,1,0,Dinner,Mexican
+27,Male,Employee,>50000,1,1,1,0,0,0,1,0,1,0,1,Lunch,Italian
+20,Female,Student,0,1,0,0,0,1,0,0,0,1,0,0,Breakfast,Mediterranean
+21,Male,Student,0,1,1,1,0,0,0,1,0,1,1,0,Dinner,Thai
+26,Male,Employee,>50000,1,0,1,0,0,0,1,1,0,0,0,Dinner,Mexican
+25,Male,Employee,<25000,1,0,0,0,0,1,0,0,0,0,1,Dinner,Italian
+26,Male,Employee,<50000,0,0,1,0,0,0,1,0,0,1,1,Breakfast,Italian
+26,Female,Employee,<50000,0,0,1,1,0,0,0,0,0,1,0,Lunch,Italian
+27,Male,Employee,>50000,0,0,0,0,0,1,0,0,0,0,1,Breakfast,Japanese
+27,Female,Student,0,0,1,1,0,0,0,1,0,0,0,0,Lunch,Chinese
+24,Female,Student,0,0,0,0,0,0,1,0,0,0,0,0,Lunch,Chinese
+25,Male,Self Employeed,>50000,0,1,0,0,1,0,0,0,0,1,0,Breakfast,Japanese
+20,Male,Student,0,0,1,0,1,0,0,0,0,0,1,0,Lunch,Italian
+22,Male,Student,0,0,0,0,0,0,0,1,0,1,0,0,Lunch,Chinese
+26,Female,Student,<10000,1,0,1,0,1,0,0,0,1,1,0,Lunch,Thai
+27,Male,Employee,<50000,0,1,0,0,0,1,0,0,0,1,1,Breakfast,Thai
+25,Female,Student,0,0,1,0,1,0,0,0,1,0,0,0,Dinner,Mexican
+24,Male,Employee,<10000,1,0,0,1,0,0,0,0,0,0,0,Breakfast,Indian
+23,Female,Employee,<25000,1,1,1,0,1,0,0,0,0,0,0,Breakfast,Thai
+22,Male,Student,0,0,1,1,0,0,1,0,0,0,0,0,Dinner,Mexican
+26,Male,Self Employeed,>50000,1,1,0,1,0,0,0,0,0,0,1,Dinner,Mexican
+26,Male,Employee,<10000,1,1,1,0,0,1,0,0,0,0,0,Breakfast,Mediterranean
+25,Female,Self Employeed,<50000,1,1,1,0,0,0,1,0,0,1,0,Breakfast,Mediterranean
+29,Female,Employee,>50000,0,0,1,0,1,0,0,1,0,0,1,Breakfast,Mediterranean
+23,Male,Student,<10000,1,0,0,0,0,1,0,0,0,0,0,Dinner,Italian
+22,Female,Employee,<50000,0,0,1,0,1,0,0,0,0,0,0,Lunch,Thai
+22,Male,Student,0,1,0,0,1,0,0,0,1,0,0,0,Breakfast,Mediterranean
+32,Female,House wife,0,0,0,1,0,0,0,1,0,0,1,0,Lunch,Indian
+28,Male,Employee,>50000,0,0,0,0,0,0,1,0,0,0,0,Lunch,Chinese
+22,Male,Student,0,0,1,1,1,0,0,0,0,0,0,1,Lunch,Japanese
+25,Male,Employee,<25000,1,0,0,1,0,0,0,1,0,0,0,Dinner,Indian
+26,Female,Employee,<50000,0,0,0,0,0,1,0,0,0,0,0,Dinner,Chinese
+31,Male,Self Employeed,>50000,1,0,1,0,0,1,0,1,0,0,0,Lunch,Italian
+24,Male,Student,0,1,0,0,0,0,1,0,0,0,0,0,Breakfast,Mediterranean
+24,Male,Employee,<50000,1,1,1,0,0,1,0,1,1,0,0,Dinner,Mediterranean
+31,Female,Employee,>50000,0,0,0,0,0,1,0,1,0,1,0,Lunch,Indian
+26,Male,Employee,<50000,0,1,0,0,0,0,1,0,0,0,0,Breakfast,Italian
+24,Female,Self Employeed,>50000,0,1,0,0,0,1,0,0,0,0,0,Lunch,Mexican
+22,Female,Student,0,0,0,1,0,0,0,1,1,0,0,0,Breakfast,Japanese
+19,Male,Student,0,0,0,0,0,0,1,0,1,0,0,1,Breakfast,Japanese
+25,Male,Employee,>50000,0,0,1,0,0,1,0,0,0,0,1,Lunch,Italian
+23,Female,House wife,0,1,1,0,0,0,0,1,0,1,0,0,Lunch,Chinese
+23,Female,Student,0,1,0,0,1,0,0,0,0,0,0,0,Lunch,Chinese
+23,Male,Student,0,1,0,0,1,0,0,0,0,1,0,0,Dinner,Italian
+24,Male,Student,0,0,0,0,1,0,0,0,0,0,1,1,Breakfast,Mediterranean
+22,Female,Employee,<50000,1,0,1,0,0,0,1,0,1,0,0,Breakfast,Chinese
+26,Male,Employee,>50000,0,1,1,1,0,0,0,0,0,0,0,Dinner,Mexican
+25,Female,Student,0,0,0,1,0,1,0,0,1,0,0,1,Lunch,Italian
+20,Male,Student,0,1,0,0,0,0,0,1,0,0,0,0,Breakfast,Mediterranean
+29,Male,Employee,<50000,1,0,0,0,0,1,0,0,1,0,0,Dinner,Chinese
+23,Female,Student,0,0,0,1,0,1,0,0,0,0,0,0,Dinner,Japanese
+25,Male,Self Employeed,>50000,1,1,1,0,0,0,1,0,1,0,0,Lunch,Chinese
+29,Female,Employee,<50000,0,1,0,0,0,1,0,0,0,0,0,Dinner,Mediterranean
+27,Male,Self Employeed,<50000,0,1,1,0,1,0,0,0,0,0,0,Lunch,Mediterranean
+25,Male,Self Employeed,<25000,0,1,0,0,0,0,1,1,0,0,1,Dinner,Italian
+21,Male,Student,0,0,0,0,0,0,1,0,0,0,1,1,Lunch,Thai
+23,Male,Student,0,0,0,0,0,0,1,0,0,0,0,0,Dinner,Thai
+24,Female,Employee,<25000,0,1,1,0,0,1,0,0,0,0,0,Breakfast,Chinese
+32,Male,Self Employeed,<25000,0,1,0,0,0,0,1,1,1,0,0,Dinner,Italian
+28,Male,Employee,<50000,1,0,0,1,0,0,0,0,1,1,0,Lunch,Japanese
+26,Male,Employee,<25000,0,0,0,0,0,0,1,0,0,0,0,Dinner,Mediterranean
+31,Female,House wife,0,0,1,0,1,0,0,0,0,0,1,0,Dinner,Thai
+27,Female,Self Employeed,<50000,1,1,1,0,0,1,0,1,0,0,0,Dinner,Italian
+21,Female,Student,0,0,0,0,0,0,1,0,1,0,0,1,Breakfast,Thai
+23,Female,Student,0,0,1,0,0,1,0,0,0,0,1,0,Breakfast,Thai
+26,Male,Employee,<25000,1,1,1,0,1,0,0,1,0,1,0,Lunch,Italian
+32,Male,Employee,>50000,1,1,1,0,1,0,0,0,0,1,0,Lunch,Italian
+25,Female,Student,0,0,1,1,1,0,0,0,0,0,0,1,Breakfast,Japanese
+28,Male,Self Employeed,<25000,0,0,1,0,0,1,0,1,0,0,1,Lunch,Thai
+21,Female,Student,0,1,0,0,0,0,1,0,0,0,0,0,Breakfast,Mediterranean
+24,Male,Student,0,1,0,0,0,1,0,0,0,0,0,0,Breakfast,Thai
+26,Female,Self Employeed,<25000,1,1,0,0,0,1,0,0,0,0,0,Dinner,Mediterranean
+32,Male,Employee,<50000,0,1,0,0,1,0,0,1,0,1,0,Breakfast,Mediterranean
+29,Male,Self Employeed,>50000,0,1,1,0,0,1,0,0,0,0,0,Breakfast,Thai
+21,Male,Student,0,1,0,1,0,0,1,0,0,0,0,1,Lunch,Chinese
+24,Female,Self Employeed,<50000,1,0,1,0,0,1,0,0,1,0,1,Lunch,Japanese
+26,Male,Self Employeed,>50000,1,1,1,1,0,0,0,1,0,0,0,Lunch,Indian
+25,Male,Employee,>50000,1,0,0,0,1,0,0,1,0,0,0,Dinner,Mediterranean
+29,Male,Employee,<50000,1,0,0,0,1,0,0,0,0,0,0,Breakfast,Italian
+22,Male,Student,0,1,0,1,1,0,0,0,0,1,0,1,Dinner,Mexican
+24,Male,Student,0,1,0,0,1,0,0,0,0,1,0,1,Breakfast,Indian
+27,Male,Employee,<50000,0,1,0,0,1,0,0,0,0,0,1,Lunch,Japanese
+23,Female,Student,0,0,0,1,0,1,0,0,1,0,1,0,Breakfast,Italian
+32,Male,Employee,>50000,0,1,0,0,1,0,0,0,0,1,1,Dinner,Italian
+22,Female,Student,0,1,0,0,1,0,0,0,0,0,0,0,Dinner,Mediterranean
+28,Male,Employee,<50000,0,0,0,0,0,0,1,0,0,1,1,Lunch,Japanese
+23,Female,Student,0,0,1,1,1,0,0,0,0,1,1,0,Dinner,Mediterranean
+30,Male,Self Employeed,>50000,1,1,1,1,0,0,0,1,1,0,0,Dinner,Mexican
+21,Male,Student,0,1,0,0,1,0,0,0,1,1,0,0,Dinner,Chinese
+26,Female,Employee,<10000,0,1,1,1,0,0,0,1,0,0,0,Dinner,Mexican
+25,Male,Self Employeed,>50000,0,0,0,0,1,0,0,0,0,0,0,Breakfast,Mediterranean
+31,Male,Employee,<10000,0,0,1,0,1,0,0,1,0,0,0,Lunch,Thai
+23,Female,Employee,<50000,0,1,0,1,0,0,0,1,0,0,0,Breakfast,Japanese
+29,Female,Employee,<50000,0,0,1,0,0,0,1,1,1,0,0,Lunch,Chinese
+21,Male,Student,0,1,1,0,0,1,0,0,0,0,0,1,Dinner,Mexican
+20,Male,Student,0,1,1,1,0,0,0,1,0,1,0,1,Lunch,Mediterranean
+22,Male,Employee,<25000,0,0,1,0,0,0,1,0,0,0,0,Dinner,Mexican
+30,Female,House wife,0,0,1,1,1,0,0,0,0,1,1,0,Lunch,Japanese
+27,Male,Self Employeed,>50000,0,1,0,0,1,0,0,0,1,1,0,Dinner,Mexican
+23,Male,Student,0,1,0,1,0,0,0,1,0,0,0,0,Breakfast,Chinese
+30,Male,Self Employeed,<50000,0,1,1,1,0,0,0,0,1,0,0,Breakfast,Mediterranean
+23,Male,Student,0,1,0,1,0,0,0,1,0,0,1,1,Breakfast,Mexican
+28,Female,Employee,<50000,0,0,1,0,1,0,0,1,0,0,0,Breakfast,Italian
+30,Male,Self Employeed,>50000,1,0,0,1,0,0,0,0,1,0,0,Breakfast,Italian
+24,Female,Employee,<50000,0,1,1,0,0,0,1,1,0,1,0,Dinner,Italian
+21,Male,Student,0,1,0,1,0,0,0,1,0,1,0,0,Breakfast,Thai
+23,Female,Employee,<25000,1,1,0,0,1,0,0,0,0,1,1,Lunch,Chinese
+25,Male,Self Employeed,>50000,1,0,1,1,0,0,0,0,0,0,0,Lunch,Mediterranean
+24,Female,Employee,<50000,1,0,1,0,0,1,0,1,0,0,0,Breakfast,Thai
+26,Male,Employee,<25000,1,1,0,1,0,0,0,0,1,0,0,Breakfast,Italian
+25,Female,Employee,<50000,0,0,1,0,0,0,1,1,0,0,0,Dinner,Mediterranean
+22,Male,Student,<50000,1,0,1,0,0,0,1,0,0,0,0,Lunch,Mexican
+26,Female,Employee,<50000,1,1,1,0,0,0,1,0,1,0,1,Lunch,Italian
+23,Male,Employee,<25000,0,0,1,1,0,0,0,0,0,1,1,Lunch,Japanese
+21,Female,Employee,<10000,1,0,0,0,0,1,0,0,1,1,0,Breakfast,Indian
+25,Male,Self Employeed,<50000,1,0,1,0,0,1,0,0,0,0,0,Breakfast,Japanese
+24,Female,Employee,<25000,0,1,0,0,1,0,0,0,0,0,0,Dinner,Chinese
+22,Male,Student,0,1,1,1,0,0,1,0,0,0,0,0,Lunch,Thai
+23,Female,Student,0,0,0,0,0,0,0,1,0,1,0,0,Breakfast,Japanese
+24,Male,Employee,>50000,1,1,0,0,1,0,0,0,0,0,0,Dinner,Japanese
+22,Female,Student,0,1,0,1,0,0,0,1,0,1,0,0,Breakfast,Indian
+30,Male,Employee,>50000,0,1,0,0,0,0,1,0,0,0,0,Lunch,Thai
+23,Female,Employee,<25000,0,1,0,0,1,0,0,0,0,0,0,Dinner,Chinese
+19,Male,Student,0,0,0,0,0,0,0,1,0,1,0,0,Lunch,Mediterranean
+21,Female,Student,0,0,1,0,0,0,0,1,0,1,1,0,Dinner,Chinese
+23,Male,Student,0,1,0,1,1,0,0,0,1,1,0,0,Breakfast,Italian
+24,Female,Employee,<50000,1,1,1,0,0,0,1,0,0,1,1,Lunch,Mexican
+26,Female,Employee,<25000,0,1,1,0,0,0,1,1,0,0,0,Dinner,Mexican
+26,Female,Student,0,1,0,0,0,1,0,0,0,0,1,1,Dinner,Japanese
+25,Female,Student,<25000,1,1,0,1,0,0,0,0,1,0,1,Dinner,Italian
+28,Female,Employee,<50000,0,0,1,0,1,0,0,0,0,0,1,Breakfast,Japanese
+25,Female,Student,0,0,1,1,0,0,0,1,0,0,0,0,Breakfast,Mexican
+20,Female,Student,0,1,1,1,0,1,0,0,0,1,0,0,Breakfast,Japanese
+27,Female,Self Employeed,>50000,0,0,0,1,0,0,0,0,0,1,1,Breakfast,Japanese
+25,Female,Employee,<50000,1,0,0,0,1,0,0,0,1,0,1,Lunch,Indian
+24,Female,Student,0,1,1,0,0,1,0,0,0,1,0,1,Lunch,Mexican
+25,Female,Employee,>50000,1,0,0,0,1,0,0,0,0,0,0,Lunch,Italian
+25,Female,Employee,<50000,1,0,1,0,0,0,1,1,0,0,1,Dinner,Mediterranean
+24,Female,Student,<10000,1,1,1,0,0,1,0,0,1,0,0,Dinner,Chinese
+24,Male,Student,0,1,0,0,1,0,0,0,0,0,0,1,Dinner,Mexican
+22,Male,Employee,<25000,1,1,1,0,1,0,0,0,0,0,0,Breakfast,Mexican
+28,Male,Employee,<50000,1,1,1,0,1,0,0,0,1,0,0,Lunch,Mediterranean
+25,Female,Employee,>50000,1,0,1,1,0,0,0,1,0,0,1,Dinner,Chinese
+22,Male,Student,<10000,0,1,0,0,0,1,0,1,0,0,1,Breakfast,Thai
+22,Female,Student,0,1,1,1,0,1,0,0,0,0,0,0,Dinner,Thai
+22,Male,Student,<10000,0,1,0,0,0,0,1,0,1,1,0,Breakfast,Indian
+27,Female,Employee,>50000,0,1,0,1,0,0,0,0,0,1,0,Dinner,Chinese
+22,Male,Student,0,1,0,1,0,0,1,0,0,0,1,0,Lunch,Mexican
+24,Female,Student,0,0,1,1,0,0,1,0,1,0,0,0,Dinner,Chinese
+23,Female,Student,0,1,1,1,0,0,1,0,0,0,1,0,Breakfast,Chinese
+23,Female,Student,0,0,0,0,0,0,0,1,1,0,0,1,Lunch,Italian
+22,Female,Student,0,1,0,0,0,1,0,0,0,0,1,1,Dinner,Thai
+23,Male,Student,<10000,1,0,1,0,0,1,0,0,1,0,0,Lunch,Mexican
+32,Male,Employee,>50000,0,1,1,0,1,0,0,1,0,1,0,Lunch,Italian
+25,Female,Student,0,1,0,0,1,0,0,0,0,1,0,1,Dinner,Chinese
+28,Male,Self Employeed,<25000,0,1,0,0,0,1,0,0,1,1,0,Dinner,Indian
+21,Female,Student,0,0,0,1,1,0,0,0,1,1,0,0,Dinner,Indian
+24,Male,Student,0,1,1,0,1,0,0,0,0,1,0,0,Breakfast,Mexican
+26,Female,Self Employeed,<25000,1,0,0,0,0,0,1,0,0,0,0,Dinner,Indian
+32,Male,Employee,<50000,0,1,0,0,0,0,1,0,0,0,1,Breakfast,Japanese
+29,Male,Self Employeed,>50000,1,1,1,0,0,0,1,0,0,0,0,Lunch,Chinese
+21,Male,Student,0,1,1,1,1,0,0,0,0,1,0,0,Dinner,Thai
+24,Female,Self Employeed,<50000,1,1,1,0,0,1,0,0,0,0,0,Dinner,Italian
+26,Male,Self Employeed,>50000,0,0,0,0,1,0,0,0,0,0,0,Dinner,Japanese
+21,Male,Employee,>50000,1,0,1,1,0,0,0,0,0,0,0,Breakfast,Mediterranean
+29,Male,Employee,<50000,1,0,1,0,0,0,1,0,0,0,0,Dinner,Mexican
+22,Male,Student,0,0,0,0,0,0,0,1,0,0,0,1,Breakfast,Indian
+24,Male,Student,0,1,0,1,0,1,0,0,0,0,1,0,Dinner,Italian
+27,Male,Employee,<50000,0,0,0,0,0,1,0,0,0,0,0,Breakfast,Mediterranean
+23,Female,Student,0,0,0,1,0,1,0,0,0,0,0,1,Breakfast,Mexican
+32,Male,Employee,>50000,0,1,0,1,0,0,0,0,0,0,0,Breakfast,Mexican
+22,Female,Student,0,0,0,1,0,0,0,1,0,0,0,0,Dinner,Mexican
+22,Female,Employee,<50000,1,1,0,1,0,0,0,1,0,0,0,Lunch,Indian
+26,Male,Employee,>50000,1,0,0,0,0,0,1,0,0,1,0,Breakfast,Chinese
+25,Female,Student,0,1,1,0,0,0,0,1,0,0,0,0,Lunch,Mediterranean
+20,Male,Student,0,0,1,1,1,0,0,0,0,0,0,1,Lunch,Mediterranean
+29,Male,Employee,<50000,0,1,1,0,0,1,0,1,0,0,1,Lunch,Italian
+23,Female,Student,0,0,1,1,0,1,0,0,0,1,0,1,Breakfast,Thai
+25,Male,Self Employeed,>50000,0,1,1,0,1,0,0,0,0,0,0,Breakfast,Mediterranean
+29,Female,Employee,<50000,1,1,0,0,1,0,0,0,0,0,0,Lunch,Italian
+27,Male,Self Employeed,<50000,1,1,1,1,0,0,0,0,0,0,0,Breakfast,Italian
+25,Male,Self Employeed,<25000,1,1,1,1,0,0,0,1,0,0,1,Breakfast,Italian
+21,Male,Student,0,0,0,0,0,0,1,0,0,1,0,1,Dinner,Thai
+23,Male,Student,0,1,1,1,0,0,1,0,0,0,0,0,Dinner,Italian
+24,Female,Employee,<25000,0,1,0,0,0,0,1,0,0,1,0,Lunch,Italian
+22,Male,Self Employeed,<25000,0,1,1,0,0,1,0,1,0,0,1,Breakfast,Japanese
+28,Male,Employee,<50000,1,1,0,0,0,0,1,0,0,0,1,Breakfast,Italian
+26,Male,Employee,<25000,0,0,1,0,0,0,1,0,1,0,0,Breakfast,Chinese
+22,Female,Employee,<50000,1,1,1,1,0,0,0,0,0,1,0,Breakfast,Mediterranean
+26,Male,Employee,>50000,0,1,1,0,1,0,0,0,0,0,0,Dinner,Italian
+25,Female,Student,0,0,0,1,0,1,0,0,0,0,0,0,Breakfast,Mexican
+20,Male,Student,0,1,1,0,1,0,0,0,0,0,0,1,Breakfast,Italian
+29,Male,Employee,<50000,0,0,1,1,0,0,0,1,0,1,0,Dinner,Japanese
+23,Female,Student,0,0,0,0,0,1,0,0,0,0,0,0,Breakfast,Indian
+25,Male,Self Employeed,>50000,0,0,1,0,0,0,1,0,0,1,1,Lunch,Italian
+29,Female,Employee,<50000,0,0,1,0,1,0,0,0,1,0,0,Lunch,Chinese
+27,Male,Self Employeed,<50000,1,1,0,0,0,1,0,1,1,0,0,Lunch,Mediterranean
+25,Male,Self Employeed,<25000,1,0,0,0,0,1,0,0,0,1,1,Lunch,Mexican
+21,Male,Student,0,0,1,0,0,1,0,0,1,0,1,0,Lunch,Mexican
+24,Male,Student,0,0,0,0,0,1,0,0,1,0,0,1,Dinner,Italian
+26,Female,Self Employeed,<25000,1,0,1,1,0,0,0,0,0,1,0,Lunch,Italian
+32,Male,Employee,<50000,1,1,0,0,0,0,1,0,0,0,0,Breakfast,Mediterranean
+29,Male,Self Employeed,>50000,1,0,1,0,0,1,0,0,0,0,0,Dinner,Indian
+21,Male,Student,0,1,0,1,0,1,0,0,0,0,0,0,Breakfast,Thai
+24,Female,Self Employeed,<50000,1,0,0,1,0,0,0,1,1,0,0,Dinner,Indian
+26,Male,Self Employeed,>50000,0,0,0,0,0,1,0,0,1,0,0,Dinner,Mediterranean
+31,Male,Employee,>50000,1,0,1,0,1,0,0,0,1,0,0,Lunch,Italian
+29,Male,Employee,<50000,0,1,0,0,0,1,0,0,0,0,0,Dinner,Japanese
+22,Male,Student,0,1,0,1,1,0,0,0,0,1,0,0,Dinner,Mediterranean
+24,Male,Student,0,1,0,0,0,1,0,0,0,0,0,0,Breakfast,Italian
+27,Male,Employee,<50000,0,0,1,0,1,0,0,1,0,0,0,Dinner,Italian
+23,Female,Student,0,1,0,1,1,0,0,0,0,0,1,1,Breakfast,Indian
+30,Male,Employee,>50000,1,1,1,1,0,0,0,1,1,0,0,Dinner,Italian
+22,Female,Student,0,1,0,1,0,0,0,1,1,0,1,0,Lunch,Chinese
+28,Male,Employee,<50000,1,0,1,0,0,0,1,0,1,0,0,Lunch,Indian
+23,Female,Student,0,0,0,0,0,0,0,1,0,1,1,0,Dinner,Mediterranean
+30,Male,Self Employeed,>50000,1,0,1,0,1,0,0,1,0,0,0,Lunch,Japanese
+21,Male,Student,0,0,1,1,1,0,0,0,0,0,0,1,Breakfast,Thai
+26,Female,Employee,<10000,0,1,0,1,0,0,0,1,1,0,0,Lunch,Thai
+25,Male,Self Employeed,>50000,0,0,0,0,0,1,0,0,0,0,1,Breakfast,Chinese
+31,Male,Employee,<10000,1,1,1,1,0,0,0,0,0,0,0,Breakfast,Indian
+23,Female,Employee,<50000,0,1,1,0,1,0,0,1,0,0,0,Breakfast,Chinese
+22,Male,Student,<10000,1,1,1,1,0,0,0,0,1,0,1,Breakfast,Mexican
+27,Female,Employee,>50000,1,1,1,0,0,0,1,0,0,1,1,Breakfast,Japanese
+22,Male,Student,0,1,0,1,0,1,0,0,0,0,1,1,Dinner,Japanese
+24,Female,Student,0,1,1,0,0,1,0,0,0,1,0,0,Dinner,Indian
+23,Female,Student,0,0,0,1,1,0,0,0,0,1,0,0,Dinner,Japanese
+23,Female,Student,0,0,1,0,0,0,0,1,0,0,0,0,Breakfast,Japanese
+22,Female,Student,0,1,0,1,0,0,0,1,0,0,0,0,Lunch,Chinese
+23,Male,Student,<10000,0,0,0,0,0,0,1,1,1,0,0,Lunch,Mediterranean
+23,Male,Student,0,0,1,1,0,0,1,0,0,1,0,0,Breakfast,Thai
